@@ -1,4 +1,3 @@
-
 //For classes offered a Centre//
 var s = document.createElement("script");
 s.src = "http://d3js.org/d3.v5.js"
